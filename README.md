@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">A passionate Backend developer from Turkey</h3>
+<h3 align="center">Backend developer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaankulac" alt="kaankulac" /></a> </p>
 
